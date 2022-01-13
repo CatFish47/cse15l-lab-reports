@@ -3,6 +3,7 @@
 ## Lab Reports
 
 [Lab Report 1](lab-report-1-week-2.html)
+[Lab Report 1](https://catfish47.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 ## Test Section
 
