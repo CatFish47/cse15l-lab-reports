@@ -1,5 +1,9 @@
 # Grant's Lab Reports Website
 
+## Lab Reports
+
+[Lab Report 1](lab-report-1-week-2.html)
+
 ## Test Section
 
 A random piece of text. This holds no meaning. :D
