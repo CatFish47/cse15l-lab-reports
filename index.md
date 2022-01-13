@@ -19,3 +19,5 @@ print 'Hello'
 ```
 
 <img src="cat.png" alt="A Cat" />
+
+This change was made on VSCode!
