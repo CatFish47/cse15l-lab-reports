@@ -17,3 +17,5 @@ The horizontal rule is added using the `---` format.
 # You can add a code block with 3 backticks
 print 'Hello'
 ```
+
+<img src="cat.png" alt="A Cat" />
