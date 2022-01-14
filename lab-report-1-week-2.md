@@ -147,6 +147,8 @@ Now, whenever you use the custom command `compile`, you will copy the HelloWorld
 
 ![Efficiency](images/lab-report-1/all-together.png)
 
+- You can also press the up arrow key in the terminal to go to previous commands, which is more practical but less epic than using alias.
+
 ## Conclusion
 
 That was it for Lab Report 1. Hopefully I can come back to this in the future and reference it, because I know I'll probably forget how to do some of this stuff.
