@@ -6,7 +6,7 @@ Greetings, incoming student of CSE 15L. In this article, you'll learn how to log
 
 Before doing anything, the first thing you need to do is to install Visual Studio Code (VSCode). VSCode is a popular code editer that includes a variety of features from easy access to a terminal to autocompleting code that you type. On top of that, it's extremely easy to install!
 
-Installing VSCode is as simple as visiting https://code.visualstudio.com/ and click the download button.
+Installing VSCode is as simple as visiting [the VSCode website](https://code.visualstudio.com/) and clicking the download button.
 
 ![Visual Studio Code Website](images/lab-report-1/download-vscode.png)
 
