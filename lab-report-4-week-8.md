@@ -1,6 +1,6 @@
-# Lab Report 3 - Week 6
+# Lab Report 4 - Week 8
 
-Today we explore [our MarkdownParse repository]() and [someone else's MarkdownParse repository]().
+Today we explore [our MarkdownParse repository](https://github.com/CatFish47/markdown-parse) and [someone else's MarkdownParse repository](https://github.com/annakkin/markdown-parse).
 
 ## The Markdown Files in Question
 
